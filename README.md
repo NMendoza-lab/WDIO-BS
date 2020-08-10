@@ -3,7 +3,7 @@
  - chrome to be present
 
 #Framework
- - webdriverio + cucumber(Hybrid)
+ - webdriverio + cucumber(Hybrid) + browserstack
 
 #Functional flow
  - kindly refer feature in the test folder.
