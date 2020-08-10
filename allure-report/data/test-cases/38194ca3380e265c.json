@@ -1,0 +1,173 @@
+{
+  "uid" : "38194ca3380e265c",
+  "name" : "Then I allow location access",
+  "fullName" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation.Then I allow location access",
+  "historyId" : "1124c700a00fab6d19e98f39e069df76",
+  "time" : {
+    "start" : 1597037335119,
+    "stop" : 1597037342414,
+    "duration" : 7295
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "testClass",
+    "value" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I allow location access"
+  }, {
+    "name" : "package",
+    "value" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "chrome-9.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2395cda902f0f0d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999752840,
+        "stop" : 1596999760247,
+        "duration" : 7407
+      }
+    }, {
+      "uid" : "97146c9fe3e8af0",
+      "status" : "broken",
+      "statusDetails" : "function timed out, ensure the promise resolves within 90000 milliseconds",
+      "time" : {
+        "start" : 1596999636532,
+        "stop" : 1596999726555,
+        "duration" : 90023
+      }
+    }, {
+      "uid" : "37e1fe4f876fc180",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999614313,
+        "stop" : 1596999621905,
+        "duration" : 7592
+      }
+    }, {
+      "uid" : "e8d6ddacd6619c27",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"//android.widget.Button[@text=\"Allow\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1596999487888,
+        "stop" : 1596999973998,
+        "duration" : 486110
+      }
+    }, {
+      "uid" : "5cfc9bec276b9624",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999466022,
+        "stop" : 1596999473322,
+        "duration" : 7300
+      }
+    }, {
+      "uid" : "cb71b09d10da6c7b",
+      "status" : "broken",
+      "statusDetails" : "function timed out, ensure the promise resolves within 90000 milliseconds",
+      "time" : {
+        "start" : 1596999285085,
+        "stop" : 1596999375096,
+        "duration" : 90011
+      }
+    }, {
+      "uid" : "454589d0a41d6a64",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999255696,
+        "stop" : 1596999262842,
+        "duration" : 7146
+      }
+    }, {
+      "uid" : "2200faa9c4bf3894",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999048239,
+        "stop" : 1596999055714,
+        "duration" : 7475
+      }
+    }, {
+      "uid" : "fe480d42be3bbe17",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596998800946,
+        "stop" : 1596998807543,
+        "duration" : 6597
+      }
+    }, {
+      "uid" : "3381cfe0ecc20f31",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596998494467,
+        "stop" : 1596998501739,
+        "duration" : 7272
+      }
+    }, {
+      "uid" : "32e10e4740892b22",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596997792426,
+        "stop" : 1596997796027,
+        "duration" : 3601
+      }
+    }, {
+      "uid" : "80a1e8c71686bc21",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596997303067,
+        "stop" : 1596997306863,
+        "duration" : 3796
+      }
+    }, {
+      "uid" : "f6df1dfed5d6e55c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596996975706,
+        "stop" : 1596996975707,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "b664dc2b87f4e366",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596996733067,
+        "stop" : 1596996733067,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "38194ca3380e265c.json",
+  "parameterValues" : [ "chrome-9.0" ]
+}

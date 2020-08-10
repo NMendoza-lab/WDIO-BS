@@ -1,0 +1,146 @@
+{
+  "uid" : "aabfbe9e86f7961c",
+  "name" : "When I click on \"Easy Access\"",
+  "fullName" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation.When I click on \"Easy Access\"",
+  "historyId" : "8c254a0195f5dc71a2bf01d48785f6e4",
+  "time" : {
+    "start" : 1597037333535,
+    "stop" : 1597037334022,
+    "duration" : 487
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "testClass",
+    "value" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I click on \"Easy Access\""
+  }, {
+    "name" : "package",
+    "value" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "chrome-9.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d3b9cf21a3266fbd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999751166,
+        "stop" : 1596999751713,
+        "duration" : 547
+      }
+    }, {
+      "uid" : "4eb00f40c378c8ed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999612819,
+        "stop" : 1596999613270,
+        "duration" : 451
+      }
+    }, {
+      "uid" : "98d7316259a7e70f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999464246,
+        "stop" : 1596999464793,
+        "duration" : 547
+      }
+    }, {
+      "uid" : "5c3107d6ab648549",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999254244,
+        "stop" : 1596999254672,
+        "duration" : 428
+      }
+    }, {
+      "uid" : "a35302c7b09e3f7d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999046481,
+        "stop" : 1596999047009,
+        "duration" : 528
+      }
+    }, {
+      "uid" : "8dd946274087ae01",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596998799294,
+        "stop" : 1596998799819,
+        "duration" : 525
+      }
+    }, {
+      "uid" : "5a11349ff9b86289",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596998492786,
+        "stop" : 1596998493341,
+        "duration" : 555
+      }
+    }, {
+      "uid" : "8007e3d7da486f3e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596997790875,
+        "stop" : 1596997791359,
+        "duration" : 484
+      }
+    }, {
+      "uid" : "b75e1f833b147ffb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596997301468,
+        "stop" : 1596997302042,
+        "duration" : 574
+      }
+    }, {
+      "uid" : "a60263cc13e59d2f",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596996975705,
+        "stop" : 1596996975706,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "ce379eaf10e51dae",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596996733065,
+        "stop" : 1596996733066,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "aabfbe9e86f7961c.json",
+  "parameterValues" : [ "chrome-9.0" ]
+}

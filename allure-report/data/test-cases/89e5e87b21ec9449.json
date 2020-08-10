@@ -1,0 +1,172 @@
+{
+  "uid" : "89e5e87b21ec9449",
+  "name" : "Given I am on the Leap landing Page",
+  "fullName" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation.Given I am on the Leap landing Page",
+  "historyId" : "d72efef4b24347ba44572f5fa3eea2dc",
+  "time" : {
+    "start" : 1597037330026,
+    "stop" : 1597037333535,
+    "duration" : 3509
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "testClass",
+    "value" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the Leap landing Page"
+  }, {
+    "name" : "package",
+    "value" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "chrome-9.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "bcfae441dcc5b386",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999748735,
+        "stop" : 1596999751166,
+        "duration" : 2431
+      }
+    }, {
+      "uid" : "81d5e18304f999e3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999633049,
+        "stop" : 1596999635002,
+        "duration" : 1953
+      }
+    }, {
+      "uid" : "8523224e84dfaf5e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999609611,
+        "stop" : 1596999612819,
+        "duration" : 3208
+      }
+    }, {
+      "uid" : "d8250e7835232062",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999484426,
+        "stop" : 1596999486357,
+        "duration" : 1931
+      }
+    }, {
+      "uid" : "39b2bd7071b7afaf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999461408,
+        "stop" : 1596999464246,
+        "duration" : 2838
+      }
+    }, {
+      "uid" : "18e7bb7108c0e309",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999279915,
+        "stop" : 1596999283572,
+        "duration" : 3657
+      }
+    }, {
+      "uid" : "c191bf43791a117d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999249858,
+        "stop" : 1596999254243,
+        "duration" : 4385
+      }
+    }, {
+      "uid" : "afa4803659d5b544",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999043360,
+        "stop" : 1596999046480,
+        "duration" : 3120
+      }
+    }, {
+      "uid" : "1323c516813f8728",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596998795697,
+        "stop" : 1596998799294,
+        "duration" : 3597
+      }
+    }, {
+      "uid" : "15af578a11e02f3b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596998489554,
+        "stop" : 1596998492786,
+        "duration" : 3232
+      }
+    }, {
+      "uid" : "63cc1f53c15d64f3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596997787352,
+        "stop" : 1596997790875,
+        "duration" : 3523
+      }
+    }, {
+      "uid" : "597054c5fc32736b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596997298400,
+        "stop" : 1596997301468,
+        "duration" : 3068
+      }
+    }, {
+      "uid" : "bed257cd3c48f020",
+      "status" : "broken",
+      "statusDetails" : "Command not supported.",
+      "time" : {
+        "start" : 1596996973551,
+        "stop" : 1596996975704,
+        "duration" : 2153
+      }
+    }, {
+      "uid" : "df35a96c890e98c6",
+      "status" : "broken",
+      "statusDetails" : "Command not supported.",
+      "time" : {
+        "start" : 1596996722309,
+        "stop" : 1596996733065,
+        "duration" : 10756
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "89e5e87b21ec9449.json",
+  "parameterValues" : [ "chrome-9.0" ]
+}

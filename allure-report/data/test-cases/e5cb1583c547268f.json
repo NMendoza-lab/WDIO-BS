@@ -1,0 +1,58 @@
+{
+  "uid" : "e5cb1583c547268f",
+  "name" : "And I wait for step 1 page to load",
+  "fullName" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation.And I wait for step 1 page to load",
+  "historyId" : "d7d1d7b8b89cb72e792f3238f1416785",
+  "time" : {
+    "start" : 1596987798806,
+    "stop" : 1596987798848,
+    "duration" : 42
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "invalid selector: An invalid or illegal selector was specified\n                  (Session info: chrome=84.0.4147.105)",
+  "statusTrace" : "invalid selector: An invalid or illegal selector was specified\n                  (Session info: chrome=84.0.4147.105)\n                    at endReadableNT (_stream_readable.js:1221:12)\n                    at processTicksAndRejections (internal/process/task_queues.js:84:21)\n                    at $ (/Users/fc19174/nathaniel/try_BS/leap-wdio/node_modules/@wdio/runner/build/index.js:189:36)\n                    at step1pageload (/Users/fc19174/nathaniel/try_BS/leap-wdio/test/pageobjects/step1.js:6:34)\n                    at step1.waitForstep1PageToLoad (/Users/fc19174/nathaniel/try_BS/leap-wdio/test/pageobjects/step1.js:9:14)\n                    at World.<anonymous> (/Users/fc19174/nathaniel/try_BS/leap-wdio/test/stepDefinitions/then.js:20:9)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "testClass",
+    "value" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I wait for step 1 page to load"
+  }, {
+    "name" : "package",
+    "value" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e5cb1583c547268f.json",
+  "parameterValues" : [ "chrome" ]
+}

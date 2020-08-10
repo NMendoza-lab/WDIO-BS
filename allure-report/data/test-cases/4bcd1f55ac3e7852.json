@@ -1,0 +1,174 @@
+{
+  "uid" : "4bcd1f55ac3e7852",
+  "name" : "And I wait for step 1 page to load",
+  "fullName" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation.And I wait for step 1 page to load",
+  "historyId" : "a7adab218e107dcdba990a6173a246e6",
+  "time" : {
+    "start" : 1597037342415,
+    "stop" : 1597037356083,
+    "duration" : 13668
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "testClass",
+    "value" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I wait for step 1 page to load"
+  }, {
+    "name" : "package",
+    "value" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "chrome-9.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "234e8231b300d62b",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596999974002,
+        "stop" : 1596999974003,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "44c039e32518020b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999760247,
+        "stop" : 1596999771372,
+        "duration" : 11125
+      }
+    }, {
+      "uid" : "ade364ac159255a6",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596999726556,
+        "stop" : 1596999726556,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "905562edabb523ec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999621906,
+        "stop" : 1596999633031,
+        "duration" : 11125
+      }
+    }, {
+      "uid" : "12b3e9de1e7c5669",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999473323,
+        "stop" : 1596999484410,
+        "duration" : 11087
+      }
+    }, {
+      "uid" : "c0d536557846cbe0",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596999375097,
+        "stop" : 1596999375098,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "6993f8062cbc98be",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999262842,
+        "stop" : 1596999279899,
+        "duration" : 17057
+      }
+    }, {
+      "uid" : "1a11bb7c7e8b4322",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999055714,
+        "stop" : 1596999066518,
+        "duration" : 10804
+      }
+    }, {
+      "uid" : "8a98defc05d6a52f",
+      "status" : "broken",
+      "statusDetails" : "element (\"//*[contains(text(),\"Get Started\")]\") still not displayed after 10000ms",
+      "time" : {
+        "start" : 1596998807543,
+        "stop" : 1596998817995,
+        "duration" : 10452
+      }
+    }, {
+      "uid" : "15409a59047203a0",
+      "status" : "broken",
+      "statusDetails" : "element (\"//*[contains(text(),\"Get Started\")]\") still not displayed after 10000ms",
+      "time" : {
+        "start" : 1596998501739,
+        "stop" : 1596998512097,
+        "duration" : 10358
+      }
+    }, {
+      "uid" : "b9209bdbd289af80",
+      "status" : "broken",
+      "statusDetails" : "element (\"//*[contains(text(),\"Get Started\")]\") still not displayed after 10000ms",
+      "time" : {
+        "start" : 1596997796027,
+        "stop" : 1596997806653,
+        "duration" : 10626
+      }
+    }, {
+      "uid" : "b9b981324f57f50a",
+      "status" : "broken",
+      "statusDetails" : "element (\"//*[contains(text(),\"Get Started\")]\") still not displayed after 10000ms",
+      "time" : {
+        "start" : 1596997306863,
+        "stop" : 1596997317688,
+        "duration" : 10825
+      }
+    }, {
+      "uid" : "6ee679fb2be62c8e",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596996975707,
+        "stop" : 1596996975707,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "f108bfcc995d561e",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596996733067,
+        "stop" : 1596996733067,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4bcd1f55ac3e7852.json",
+  "parameterValues" : [ "chrome-9.0" ]
+}

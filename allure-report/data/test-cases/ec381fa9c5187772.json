@@ -1,0 +1,56 @@
+{
+  "uid" : "ec381fa9c5187772",
+  "name" : "And I click on apply now on the product details page",
+  "fullName" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation.And I click on apply now on the product details page",
+  "historyId" : "4a49cb0d7e448edcaead7fb847136ab8",
+  "time" : {
+    "start" : 1596989869320,
+    "stop" : 1596989869950,
+    "duration" : 630
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "testClass",
+    "value" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I click on apply now on the product details page"
+  }, {
+    "name" : "package",
+    "value" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ec381fa9c5187772.json",
+  "parameterValues" : [ "chrome" ]
+}

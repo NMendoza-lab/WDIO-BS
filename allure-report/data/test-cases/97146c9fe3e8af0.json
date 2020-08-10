@@ -1,0 +1,58 @@
+{
+  "uid" : "97146c9fe3e8af0",
+  "name" : "Then I allow location access",
+  "fullName" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation.Then I allow location access",
+  "historyId" : "1124c700a00fab6d19e98f39e069df76",
+  "time" : {
+    "start" : 1596999636532,
+    "stop" : 1596999726555,
+    "duration" : 90023
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "function timed out, ensure the promise resolves within 90000 milliseconds",
+  "statusTrace" : "Error: function timed out, ensure the promise resolves within 90000 milliseconds\n                    at Timeout._onTimeout (/Users/fc19174/nathaniel/try_BS/leap-wdio/node_modules/@wdio/cucumber-framework/node_modules/cucumber/lib/user_code_runner.js:81:20)\n                    at listOnTimeout (internal/timers.js:549:17)\n                    at processTimers (internal/timers.js:492:7)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "testClass",
+    "value" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I allow location access"
+  }, {
+    "name" : "package",
+    "value" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "chrome-9.0"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "97146c9fe3e8af0.json",
+  "parameterValues" : [ "chrome-9.0" ]
+}

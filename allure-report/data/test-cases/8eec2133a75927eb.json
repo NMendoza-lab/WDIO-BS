@@ -1,0 +1,414 @@
+{
+  "uid" : "8eec2133a75927eb",
+  "name" : "Then I allow location access",
+  "fullName" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation.Then I allow location access",
+  "historyId" : "78c97df540c8191df4d68a7c5e2e8b46",
+  "time" : {
+    "start" : 1596994594454,
+    "stop" : 1596994597527,
+    "duration" : 3073
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "testClass",
+    "value" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I allow location access"
+  }, {
+    "name" : "package",
+    "value" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "48dc7da7a372d1c2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596994516700,
+        "stop" : 1596994529773,
+        "duration" : 13073
+      }
+    }, {
+      "uid" : "96f77851641fac33",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596994141800,
+        "stop" : 1596994154867,
+        "duration" : 13067
+      }
+    }, {
+      "uid" : "ac4e40affa9c22b3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596994055745,
+        "stop" : 1596994058814,
+        "duration" : 3069
+      }
+    }, {
+      "uid" : "2e471f42260d45ad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596993986043,
+        "stop" : 1596993989111,
+        "duration" : 3068
+      }
+    }, {
+      "uid" : "e7a14bd77db2f031",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596993794606,
+        "stop" : 1596993807676,
+        "duration" : 13070
+      }
+    }, {
+      "uid" : "6d351d6b939a428a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596993599862,
+        "stop" : 1596993612979,
+        "duration" : 13117
+      }
+    }, {
+      "uid" : "865b0a1cbdc7bd7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596993544284,
+        "stop" : 1596993547375,
+        "duration" : 3091
+      }
+    }, {
+      "uid" : "afbae4c446a4ae4a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596993451205,
+        "stop" : 1596993454262,
+        "duration" : 3057
+      }
+    }, {
+      "uid" : "d11b437cab070b80",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596992786694,
+        "stop" : 1596992789805,
+        "duration" : 3111
+      }
+    }, {
+      "uid" : "54dc8da799df8049",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596992662011,
+        "stop" : 1596992665228,
+        "duration" : 3217
+      }
+    }, {
+      "uid" : "e606a17bcb1e6f99",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596992482952,
+        "stop" : 1596992486061,
+        "duration" : 3109
+      }
+    }, {
+      "uid" : "ab7f4bd242277673",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596992363750,
+        "stop" : 1596992366881,
+        "duration" : 3131
+      }
+    }, {
+      "uid" : "a40cb7728381b753",
+      "status" : "broken",
+      "statusDetails" : "a.$$(...).getText is not a function",
+      "time" : {
+        "start" : 1596992308095,
+        "stop" : 1596992311209,
+        "duration" : 3114
+      }
+    }, {
+      "uid" : "3a4dd313a7e5d6c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991988339,
+        "stop" : 1596991991427,
+        "duration" : 3088
+      }
+    }, {
+      "uid" : "e5b45f29e4f2d952",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991875743,
+        "stop" : 1596991878790,
+        "duration" : 3047
+      }
+    }, {
+      "uid" : "8d395cf8440ca73f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991819837,
+        "stop" : 1596991819875,
+        "duration" : 38
+      }
+    }, {
+      "uid" : "61db9ca3d2ce807a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991720132,
+        "stop" : 1596991720162,
+        "duration" : 30
+      }
+    }, {
+      "uid" : "c986ecb8a78bbe37",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991582430,
+        "stop" : 1596991582464,
+        "duration" : 34
+      }
+    }, {
+      "uid" : "a8c55b002f63bd6c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991506818,
+        "stop" : 1596991506851,
+        "duration" : 33
+      }
+    }, {
+      "uid" : "a291d6cbfb3bbe63",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991390783,
+        "stop" : 1596991390802,
+        "duration" : 19
+      }
+    }, {
+      "uid" : "996662de9c15535a",
+      "status" : "broken",
+      "statusDetails" : "no such frame\n                  (Session info: chrome=84.0.4147.105)",
+      "time" : {
+        "start" : 1596991121539,
+        "stop" : 1596991121575,
+        "duration" : 36
+      }
+    }, {
+      "uid" : "ab4fc7615ccb7ed9",
+      "status" : "broken",
+      "statusDetails" : "invalid argument: 'id' can not be string\n                  (Session info: chrome=84.0.4147.105)",
+      "time" : {
+        "start" : 1596991064338,
+        "stop" : 1596991064373,
+        "duration" : 35
+      }
+    }, {
+      "uid" : "e87b9aafc4655b74",
+      "status" : "broken",
+      "statusDetails" : "invalid argument: 'id' can not be string\n                  (Session info: headless chrome=84.0.4147.105)",
+      "time" : {
+        "start" : 1596990042809,
+        "stop" : 1596990042874,
+        "duration" : 65
+      }
+    }, {
+      "uid" : "684b76e856bf5075",
+      "status" : "broken",
+      "statusDetails" : "invalid argument: 'id' can not be string\n                  (Session info: headless chrome=84.0.4147.105)",
+      "time" : {
+        "start" : 1596990010029,
+        "stop" : 1596990010059,
+        "duration" : 30
+      }
+    }, {
+      "uid" : "8069f58b68ef1ad6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596989908906,
+        "stop" : 1596989908922,
+        "duration" : 16
+      }
+    }, {
+      "uid" : "6ad64b37fabf0852",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596989869950,
+        "stop" : 1596989869966,
+        "duration" : 16
+      }
+    }, {
+      "uid" : "2ac9ef8f768c8681",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596989769784,
+        "stop" : 1596989769805,
+        "duration" : 21
+      }
+    }, {
+      "uid" : "4d1bdb6ebbb73325",
+      "status" : "broken",
+      "statusDetails" : "Cannot read property 'log' of undefined",
+      "time" : {
+        "start" : 1596989701687,
+        "stop" : 1596989701717,
+        "duration" : 30
+      }
+    }, {
+      "uid" : "d2f7731c2352d855",
+      "status" : "broken",
+      "statusDetails" : "Cannot read property 'log' of undefined",
+      "time" : {
+        "start" : 1596989525921,
+        "stop" : 1596989525955,
+        "duration" : 34
+      }
+    }, {
+      "uid" : "38497dbabe01117d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596988381855,
+        "stop" : 1596988384923,
+        "duration" : 3068
+      }
+    }, {
+      "uid" : "7122fc171bd061be",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596988292748,
+        "stop" : 1596988295770,
+        "duration" : 3022
+      }
+    }, {
+      "uid" : "d1d0a7c7ff3cfaed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596988167764,
+        "stop" : 1596988170808,
+        "duration" : 3044
+      }
+    }, {
+      "uid" : "5beffbc0d0b40015",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596988058191,
+        "stop" : 1596988061277,
+        "duration" : 3086
+      }
+    }, {
+      "uid" : "c1839cb9d9e19652",
+      "status" : "broken",
+      "statusDetails" : "element (\".MuiButtonBase-root MuiButton-root MuiButton-contained edit__btn MuiButton-containedPrimary\") still not displayed after 10000ms",
+      "time" : {
+        "start" : 1596987983875,
+        "stop" : 1596987996944,
+        "duration" : 13069
+      }
+    }, {
+      "uid" : "9368f021558c5483",
+      "status" : "broken",
+      "statusDetails" : "Cannot read property 'isDisplayed' of undefined",
+      "time" : {
+        "start" : 1596987904104,
+        "stop" : 1596987907127,
+        "duration" : 3023
+      }
+    }, {
+      "uid" : "ffa560a54419897f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596987795770,
+        "stop" : 1596987798806,
+        "duration" : 3036
+      }
+    }, {
+      "uid" : "ca1cad626b79f4ec",
+      "status" : "broken",
+      "statusDetails" : "invalid argument: 'id' can not be string\n                  (Session info: chrome=84.0.4147.105)",
+      "time" : {
+        "start" : 1596987594524,
+        "stop" : 1596987597563,
+        "duration" : 3039
+      }
+    }, {
+      "uid" : "64bba594ff347a36",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596987397784,
+        "stop" : 1596987400811,
+        "duration" : 3027
+      }
+    }, {
+      "uid" : "83962fb4ae3057af",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596987312972,
+        "stop" : 1596987315994,
+        "duration" : 3022
+      }
+    }, {
+      "uid" : "b367f5b29b73470a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596987021352,
+        "stop" : 1596987024416,
+        "duration" : 3064
+      }
+    }, {
+      "uid" : "67ff446ffb53991",
+      "status" : "broken",
+      "statusDetails" : "element (\".MuiButtonBase-root MuiButton-root MuiButton-contained edit__btn MuiButton-containedPrimary\") still not displayed after 10000ms",
+      "time" : {
+        "start" : 1596986686915,
+        "stop" : 1596986699976,
+        "duration" : 13061
+      }
+    }, {
+      "uid" : "53c789f15e4927d3",
+      "status" : "broken",
+      "statusDetails" : "function uses multiple asynchronous interfaces: callback and promise\n                to use the callback interface: do not return a promise\n                to use the promise interface: remove the last argument to the function",
+      "time" : {
+        "start" : 1596986610696,
+        "stop" : 1596986610699,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "ae60d299f3c8dafc",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596986497473,
+        "stop" : 1596986497473,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8eec2133a75927eb.json",
+  "parameterValues" : [ "chrome" ]
+}

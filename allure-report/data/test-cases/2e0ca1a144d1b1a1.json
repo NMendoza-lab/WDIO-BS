@@ -1,0 +1,58 @@
+{
+  "uid" : "2e0ca1a144d1b1a1",
+  "name" : "And I pay with debit card by entering the test details",
+  "fullName" : "Performing a functional test flow for Myntra: Scenario Outline name: Performing an E2E operation.And I pay with debit card by entering the test details",
+  "historyId" : "d3eef3ef8b9a6e8c9712e0bae02d41c5",
+  "time" : {
+    "start" : 1596980455092,
+    "stop" : 1596980455092,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Performing a functional test flow for Myntra: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "testClass",
+    "value" : "Performing a functional test flow for Myntra: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I pay with debit card by entering the test details"
+  }, {
+    "name" : "package",
+    "value" : "Performing a functional test flow for Myntra: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2e0ca1a144d1b1a1.json",
+  "parameterValues" : [ "chrome" ]
+}

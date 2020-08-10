@@ -1,0 +1,58 @@
+{
+  "uid" : "15409a59047203a0",
+  "name" : "And I wait for step 1 page to load",
+  "fullName" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation.And I wait for step 1 page to load",
+  "historyId" : "a7adab218e107dcdba990a6173a246e6",
+  "time" : {
+    "start" : 1596998501739,
+    "stop" : 1596998512097,
+    "duration" : 10358
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "element (\"//*[contains(text(),\"Get Started\")]\") still not displayed after 10000ms",
+  "statusTrace" : "Error: element (\"//*[contains(text(),\"Get Started\")]\") still not displayed after 10000ms\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n                    at step1.waitForstep1PageToLoad (/Users/fc19174/nathaniel/try_BS/leap-wdio/test/pageobjects/step1.js:10:26)\n                    at World.<anonymous> (/Users/fc19174/nathaniel/try_BS/leap-wdio/test/stepDefinitions/then.js:17:9)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "testClass",
+    "value" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I wait for step 1 page to load"
+  }, {
+    "name" : "package",
+    "value" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "chrome-9.0"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "15409a59047203a0.json",
+  "parameterValues" : [ "chrome-9.0" ]
+}

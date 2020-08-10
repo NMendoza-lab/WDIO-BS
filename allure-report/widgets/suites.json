@@ -1,0 +1,26 @@
+{
+  "total" : 2,
+  "items" : [ {
+    "uid" : "3779bedd106baa65b8566e4afc8a4fd3",
+    "name" : "Performing a functional test flow for Myntra: Scenario Outline name: Performing an E2E operation",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 10,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 14
+    }
+  }, {
+    "uid" : "c8d819196b86a018806df9b48e3fc344",
+    "name" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 13,
+      "unknown" : 0,
+      "total" : 13
+    }
+  } ]
+}

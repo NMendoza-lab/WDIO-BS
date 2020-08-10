@@ -1,0 +1,5404 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "0-0",
+    "children" : [ {
+      "name" : "Hook",
+      "uid" : "7a3906ba28306fcd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991121575,
+        "stop" : 1596991121576,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "3a47919d2fbed630",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596990009294,
+        "stop" : 1596990009390,
+        "duration" : 96
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "1862b2fcd3b107af",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991055796,
+        "stop" : 1596991063624,
+        "duration" : 7828
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "39afdc362791b7b1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596988287164,
+        "stop" : 1596988287166,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "2200faa9c4bf3894",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999048239,
+        "stop" : 1596999055714,
+        "duration" : 7475
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "6ee679fb2be62c8e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596996975707,
+        "stop" : 1596996975707,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "6ec38fd56181ed7e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596992298707,
+        "stop" : 1596992307411,
+        "duration" : 8704
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "18e7bb7108c0e309",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999279915,
+        "stop" : 1596999283572,
+        "duration" : 3657
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "15409a59047203a0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1596998501739,
+        "stop" : 1596998512097,
+        "duration" : 10358
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "2104a3a08d08d810",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991055794,
+        "stop" : 1596991055795,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "93401c404c26ff46",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999751714,
+        "stop" : 1596999752839,
+        "duration" : 1125
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "f3c2516cac28a9d3",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596986497473,
+        "stop" : 1596986497473,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "2028fe558d6332fd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596998512098,
+        "stop" : 1596998512098,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "13ae60712b99fad4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596987020735,
+        "stop" : 1596987021352,
+        "duration" : 617
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I verfiy the default address and click on continue",
+      "uid" : "f4f2d5f413880d99",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596980455091,
+        "stop" : 1596980455091,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "713b4c55392fc43b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596994132885,
+        "stop" : 1596994132887,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "1814dbff5bc7bc0f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596996722307,
+        "stop" : 1596996722308,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "And I filter by brand \"Van Heusen\"",
+      "uid" : "109f480a91f3645f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596980455089,
+        "stop" : 1596980455089,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "29d1fc254a465f17",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596987979934,
+        "stop" : 1596987982670,
+        "duration" : 2736
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "5ed6309e31fe05ed",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1596994154868,
+        "stop" : 1596994154929,
+        "duration" : 61
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "fb0a3aa76230bb36",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596986603820,
+        "stop" : 1596986603821,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "53c789f15e4927d3",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1596986610696,
+        "stop" : 1596986610699,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "d7335d3bd7673d99",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596993590999,
+        "stop" : 1596993599157,
+        "duration" : 8158
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "c1839cb9d9e19652",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1596987983875,
+        "stop" : 1596987996944,
+        "duration" : 13069
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "4eb00f40c378c8ed",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999612819,
+        "stop" : 1596999613270,
+        "duration" : 451
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "b6c655c02663b16f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991856886,
+        "stop" : 1596991864837,
+        "duration" : 7951
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "d993112c0b43f89e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596992661320,
+        "stop" : 1596992661408,
+        "duration" : 88
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "d8250e7835232062",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999484426,
+        "stop" : 1596999486357,
+        "duration" : 1931
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "f332d9d18ca5f515",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596986610699,
+        "stop" : 1596986610700,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "a8c55b002f63bd6c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991506818,
+        "stop" : 1596991506851,
+        "duration" : 33
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "ae60d299f3c8dafc",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596986497473,
+        "stop" : 1596986497473,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "ffcd0846d95cdc17",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596994529773,
+        "stop" : 1596994539810,
+        "duration" : 10037
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "4bcd1f55ac3e7852",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597037342415,
+        "stop" : 1597037356083,
+        "duration" : 13668
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "8c76a303b3f208bd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596987597564,
+        "stop" : 1596987597564,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "1323c516813f8728",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596998795697,
+        "stop" : 1596998799294,
+        "duration" : 3597
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "20b0b6f62aa86198",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596990038730,
+        "stop" : 1596990042057,
+        "duration" : 3327
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "b9e32f424d62eda7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991390079,
+        "stop" : 1596991390176,
+        "duration" : 97
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "b75e1f833b147ffb",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596997301468,
+        "stop" : 1596997302042,
+        "duration" : 574
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "8523224e84dfaf5e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999609611,
+        "stop" : 1596999612819,
+        "duration" : 3208
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "24351953f911ed2b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596996733066,
+        "stop" : 1596996733066,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "a8d2e5d1dbcbd31d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1596994058814,
+        "stop" : 1596994058881,
+        "duration" : 67
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "b2a25705c7cf49aa",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596987397179,
+        "stop" : 1596987397784,
+        "duration" : 605
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "a475060f097d3417",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1596988170809,
+        "stop" : 1596988170853,
+        "duration" : 44
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "c191bf43791a117d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999249858,
+        "stop" : 1596999254243,
+        "duration" : 4385
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "52a5e04726156d13",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596989701051,
+        "stop" : 1596989701687,
+        "duration" : 636
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "e9c59859074b8cd1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596989768533,
+        "stop" : 1596989768648,
+        "duration" : 115
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "78c312c5de0d53fb",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596989700950,
+        "stop" : 1596989701050,
+        "duration" : 100
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "80bdb7639c00b767",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596987795086,
+        "stop" : 1596987795159,
+        "duration" : 73
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "208aa88a63e3690c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999047009,
+        "stop" : 1596999048238,
+        "duration" : 1229
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "67facfab79fd99ec",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596994044987,
+        "stop" : 1596994044989,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "80e2a0108685dccd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991808755,
+        "stop" : 1596991813886,
+        "duration" : 5131
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "f0e9183b18d5ea03",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991582522,
+        "stop" : 1596991582523,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "6aef30bbedd645e2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596994498371,
+        "stop" : 1596994515471,
+        "duration" : 17100
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "d5d236746cd88ca0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999279900,
+        "stop" : 1596999279901,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "15af578a11e02f3b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596998489554,
+        "stop" : 1596998492786,
+        "duration" : 3232
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "61db9ca3d2ce807a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991720132,
+        "stop" : 1596991720162,
+        "duration" : 30
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "9208adedc1e6d7bd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991111586,
+        "stop" : 1596991120821,
+        "duration" : 9235
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "768d7f699137d48e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596992786094,
+        "stop" : 1596992786694,
+        "duration" : 600
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "b9b981324f57f50a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1596997306863,
+        "stop" : 1596997317688,
+        "duration" : 10825
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "622300e59dbab55e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596986497474,
+        "stop" : 1596986497475,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "f46d4b89c54c4f6f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999249857,
+        "stop" : 1596999249858,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "97146c9fe3e8af0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1596999636532,
+        "stop" : 1596999726555,
+        "duration" : 90023
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "a291d6cbfb3bbe63",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991390783,
+        "stop" : 1596991390802,
+        "duration" : 19
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "c9b51a588e584371",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596990042172,
+        "stop" : 1596990042808,
+        "duration" : 636
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "ac4e40affa9c22b3",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596994055745,
+        "stop" : 1596994058814,
+        "duration" : 3069
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "4b203352c352f92c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999726557,
+        "stop" : 1596999726559,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "76a23c0f3bf5881",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999066518,
+        "stop" : 1596999066519,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "24a6068452091c34",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596989525210,
+        "stop" : 1596989525304,
+        "duration" : 94
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "e4869b361af0a0ee",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596994054629,
+        "stop" : 1596994055745,
+        "duration" : 1116
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "5510dc5dec154489",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596989769863,
+        "stop" : 1596989769864,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "8aba58f487aad176",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1596988384923,
+        "stop" : 1596988384963,
+        "duration" : 40
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "49e087033f01aa46",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596987589942,
+        "stop" : 1596987593807,
+        "duration" : 3865
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "5074eef7d778fba",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596987014014,
+        "stop" : 1596987020666,
+        "duration" : 6652
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "16313c2cff7987a9",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596989518439,
+        "stop" : 1596989518441,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "fa3fbd06a2005347",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1596989908922,
+        "stop" : 1596989908962,
+        "duration" : 40
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "1d00acf195b0be72",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596987903490,
+        "stop" : 1596987904103,
+        "duration" : 613
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "454589d0a41d6a64",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999255696,
+        "stop" : 1596999262842,
+        "duration" : 7146
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "455d0aa71b8564c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596987393166,
+        "stop" : 1596987397095,
+        "duration" : 3929
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "83962fb4ae3057af",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596987312972,
+        "stop" : 1596987315994,
+        "duration" : 3022
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "e7a14bd77db2f031",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596993794606,
+        "stop" : 1596993807676,
+        "duration" : 13070
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I search for \"Shirts For Men\"",
+      "uid" : "2f76c3e269861d8b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596980455087,
+        "stop" : 1596980455088,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "98d7316259a7e70f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999464246,
+        "stop" : 1596999464793,
+        "duration" : 547
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "e021671a5f838463",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596997317688,
+        "stop" : 1596997317689,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "5562e44b7c02466a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597037330024,
+        "stop" : 1597037330026,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "32983ad12fa8c74a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991813886,
+        "stop" : 1596991819837,
+        "duration" : 5951
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I verify the cost",
+      "uid" : "43e6549e0df21b7a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596980455090,
+        "stop" : 1596980455091,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "9821aa24c9d6be0b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596994611603,
+        "stop" : 1596994611604,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "8eec2133a75927eb",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596994594454,
+        "stop" : 1596994597527,
+        "duration" : 3073
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "698d22f021941c6b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596986610699,
+        "stop" : 1596986610699,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "6ae68e6cfb79bf43",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596997302042,
+        "stop" : 1596997303066,
+        "duration" : 1024
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "f65b4a47821afdf8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596993974197,
+        "stop" : 1596993974199,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "8b6b5a48078631a6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596987907129,
+        "stop" : 1596987907130,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "6fb9c78d04640fd8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596988052564,
+        "stop" : 1596988052566,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on Profile on the home page to log in",
+      "uid" : "ffff934384184392",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596980441654,
+        "stop" : 1596980445022,
+        "duration" : 3368
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "44c039e32518020b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999760247,
+        "stop" : 1596999771372,
+        "duration" : 11125
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "aeaaa4f1d28c6dc4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596986610103,
+        "stop" : 1596986610696,
+        "duration" : 593
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "90948abd55ab9585",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991573688,
+        "stop" : 1596991581722,
+        "duration" : 8034
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "f037dc778e79106f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596992366881,
+        "stop" : 1596992366882,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I enetr my email \"nathaniel2794@gmail.com\" and password \"Testcasemyntra1@\" and click on the log in button",
+      "uid" : "983c10ad45a5e413",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1596980445022,
+        "stop" : 1596980455087,
+        "duration" : 10065
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "89ddaf4c62c02084",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596998799820,
+        "stop" : 1596998800946,
+        "duration" : 1126
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "865b0a1cbdc7bd7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596993544284,
+        "stop" : 1596993547375,
+        "duration" : 3091
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "22f4f84fa0b3ad7d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1596991506851,
+        "stop" : 1596991506906,
+        "duration" : 55
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "6d497520d9c002f6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991719532,
+        "stop" : 1596991720132,
+        "duration" : 600
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "3a4dd313a7e5d6c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991988339,
+        "stop" : 1596991991427,
+        "duration" : 3088
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "f9988d40669ef209",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596988160735,
+        "stop" : 1596988166567,
+        "duration" : 5832
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "eb9a3c417f8749e5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596993447089,
+        "stop" : 1596993451204,
+        "duration" : 4115
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "a35302c7b09e3f7d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999046481,
+        "stop" : 1596999047009,
+        "duration" : 528
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "ee87923a27864d5f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596992653658,
+        "stop" : 1596992661320,
+        "duration" : 7662
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "b6a028117d58befc",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596992778701,
+        "stop" : 1596992785985,
+        "duration" : 7284
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "afbae4c446a4ae4a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596993451205,
+        "stop" : 1596993454262,
+        "duration" : 3057
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "14a359f03fa970fa",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999484425,
+        "stop" : 1596999484426,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "b62fb4bcd890ad2f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596989701718,
+        "stop" : 1596989701718,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "4364062378aa0cf0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596989907701,
+        "stop" : 1596989907799,
+        "duration" : 98
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "a60263cc13e59d2f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596996975705,
+        "stop" : 1596996975706,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "8cb36799433157af",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596993599264,
+        "stop" : 1596993599862,
+        "duration" : 598
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "e97ead6004489cb6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596994044989,
+        "stop" : 1596994054552,
+        "duration" : 9563
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "7ac15090d835ae76",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596988372431,
+        "stop" : 1596988381163,
+        "duration" : 8732
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "5a11349ff9b86289",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596998492786,
+        "stop" : 1596998493341,
+        "duration" : 555
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "80a1e8c71686bc21",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596997303067,
+        "stop" : 1596997306863,
+        "duration" : 3796
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "ad99b12e981c6b60",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596994515570,
+        "stop" : 1596994516700,
+        "duration" : 1130
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "ca1cad626b79f4ec",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1596987594524,
+        "stop" : 1596987597563,
+        "duration" : 3039
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "32602758b51b70b7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596998795695,
+        "stop" : 1596998795696,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "f58a14b98e6d038c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596980436489,
+        "stop" : 1596980436490,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "99cbe43dc59754e3",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596989525304,
+        "stop" : 1596989525921,
+        "duration" : 617
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "5c3107d6ab648549",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999254244,
+        "stop" : 1596999254672,
+        "duration" : 428
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "c0d536557846cbe0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596999375097,
+        "stop" : 1596999375098,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "619bb7e08bdec018",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596992653655,
+        "stop" : 1596992653657,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "ba471e0d9f22d61a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596989696985,
+        "stop" : 1596989700950,
+        "duration" : 3965
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "a40cb7728381b753",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1596992308095,
+        "stop" : 1596992311209,
+        "duration" : 3114
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "8879242682d5e0d6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596988384964,
+        "stop" : 1596988384965,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "bf6f43f9e54c855e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596993793388,
+        "stop" : 1596993793486,
+        "duration" : 98
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "b3cffa62958ebee2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596993989113,
+        "stop" : 1596993989113,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I select the first Item",
+      "uid" : "e4a73055bedf9eb5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596980455089,
+        "stop" : 1596980455089,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "d751209b8988eadc",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596992362987,
+        "stop" : 1596992363145,
+        "duration" : 158
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "fe480d42be3bbe17",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596998800946,
+        "stop" : 1596998807543,
+        "duration" : 6597
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "f108bfcc995d561e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596996733067,
+        "stop" : 1596996733067,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "50be46deb29ffd55",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991799869,
+        "stop" : 1596991808755,
+        "duration" : 8886
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "731cf69be13bfb2d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596993438048,
+        "stop" : 1596993446929,
+        "duration" : 8881
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "e8eacf2cf62436ef",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596988381240,
+        "stop" : 1596988381855,
+        "duration" : 615
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "dbbadd568f737b90",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596988372429,
+        "stop" : 1596988372431,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "597054c5fc32736b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596997298400,
+        "stop" : 1596997301468,
+        "duration" : 3068
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "ddf8acfd249a7e4d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596993783639,
+        "stop" : 1596993793388,
+        "duration" : 9749
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And click on place order",
+      "uid" : "fa6255fde8aca108",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596980455091,
+        "stop" : 1596980455091,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "d2f7731c2352d855",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1596989525921,
+        "stop" : 1596989525955,
+        "duration" : 34
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "19d37408456db6c8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596987903419,
+        "stop" : 1596987903489,
+        "duration" : 70
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "f077200ab77d2922",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596980455093,
+        "stop" : 1596980455093,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "52d994776ddcc180",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596996973549,
+        "stop" : 1596996973550,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "5e789bbbd94e2208",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596989518442,
+        "stop" : 1596989525209,
+        "duration" : 6767
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "22f79a7fb395f1fe",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596987312359,
+        "stop" : 1596987312972,
+        "duration" : 613
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "58159c250537c95c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596987593807,
+        "stop" : 1596987593906,
+        "duration" : 99
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "63cc1f53c15d64f3",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596997787352,
+        "stop" : 1596997790875,
+        "duration" : 3523
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "c1925716241fdea7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596994583550,
+        "stop" : 1596994583551,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "6870f12422466d9f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596990042874,
+        "stop" : 1596990042875,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I am on the Myntra home Page",
+      "uid" : "cf089157c931393",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596980436491,
+        "stop" : 1596980441654,
+        "duration" : 5163
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "a21f3ebf4776bb3a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991573686,
+        "stop" : 1596991573687,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Prime\"",
+      "uid" : "eb8e8cf46d8edff8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999635002,
+        "stop" : 1596999635593,
+        "duration" : 591
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "b14ef95fb2a403b0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596987308473,
+        "stop" : 1596987308474,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "3e379648bafe7f76",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596990009390,
+        "stop" : 1596990010029,
+        "duration" : 639
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "c0b4b1a93b23ef15",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596987798849,
+        "stop" : 1596987798849,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "8d395cf8440ca73f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991819837,
+        "stop" : 1596991819875,
+        "duration" : 38
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "a74db37b06ae6ae9",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596986682625,
+        "stop" : 1596986686225,
+        "duration" : 3600
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "6d5b6a55675650e6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1596987315994,
+        "stop" : 1596987316043,
+        "duration" : 49
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "bd43a3fec86a22cd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596988061326,
+        "stop" : 1596988061326,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "6450755f46086d2b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596989525956,
+        "stop" : 1596989525956,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "4dd266720814c8f0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1596987024417,
+        "stop" : 1596987024466,
+        "duration" : 49
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "cae73e350c49f210",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596992354583,
+        "stop" : 1596992362987,
+        "duration" : 8404
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "4c072236c60b46c2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596987308475,
+        "stop" : 1596987312283,
+        "duration" : 3808
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "d3b9cf21a3266fbd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999751166,
+        "stop" : 1596999751713,
+        "duration" : 547
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "ade364ac159255a6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596999726556,
+        "stop" : 1596999726556,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "4a5efcb7465bc64f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596990005003,
+        "stop" : 1596990009293,
+        "duration" : 4290
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "586e2287cbf8c652",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596992311210,
+        "stop" : 1596992311210,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "7cc6878f511b2cc2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596994583552,
+        "stop" : 1596994593175,
+        "duration" : 9623
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on Bag",
+      "uid" : "2bae74f62f09cdcd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596980455090,
+        "stop" : 1596980455090,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "9f0274dcbb5917ce",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596987982670,
+        "stop" : 1596987982759,
+        "duration" : 89
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "9368f021558c5483",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1596987904104,
+        "stop" : 1596987907127,
+        "duration" : 3023
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "56a046ad0495376c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1596991390802,
+        "stop" : 1596991390846,
+        "duration" : 44
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "7ccc5f8d3729367",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999748734,
+        "stop" : 1596999748735,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "e18e902990e25e0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596994132887,
+        "stop" : 1596994141111,
+        "duration" : 8224
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "f8fbefaf24c9553a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596998493341,
+        "stop" : 1596998494467,
+        "duration" : 1126
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "3ba16e7f9c58480",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596987316043,
+        "stop" : 1596987316043,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "1efe570618d93292",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596994154929,
+        "stop" : 1596994154929,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "e9d350a0d57140a0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1596987400811,
+        "stop" : 1596987400859,
+        "duration" : 48
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "4201aaf6d335bca0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596992354581,
+        "stop" : 1596992354582,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "272a3ec943abce5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991870090,
+        "stop" : 1596991875743,
+        "duration" : 5653
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "ca282ddf1586ba81",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991506906,
+        "stop" : 1596991506907,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "75973d54c2f6822",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596989869207,
+        "stop" : 1596989869320,
+        "duration" : 113
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "982b90eaea7a5180",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596988292148,
+        "stop" : 1596988292748,
+        "duration" : 600
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "d236a394805aa355",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596987979932,
+        "stop" : 1596987979934,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "64f9bf4cbe7f2bb6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596989768649,
+        "stop" : 1596989769783,
+        "duration" : 1134
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "51951ebda0d11ea9",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596993612980,
+        "stop" : 1596993612981,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "a597fcb488f894f5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596986494502,
+        "stop" : 1596986494504,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "2e19f4618c5444e7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1596989769806,
+        "stop" : 1596989769863,
+        "duration" : 57
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "4d1bdb6ebbb73325",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1596989701687,
+        "stop" : 1596989701717,
+        "duration" : 30
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "69ac055305e23cf4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596986699978,
+        "stop" : 1596986699979,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "232ad7bb85d8d539",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596992665229,
+        "stop" : 1596992665229,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "e5fb66dd858c262b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999486910,
+        "stop" : 1596999487887,
+        "duration" : 977
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "a0bb2de7cf8a4f8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1596988295770,
+        "stop" : 1596988295820,
+        "duration" : 50
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "c8953ad314da5b8e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596990038727,
+        "stop" : 1596990038729,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "d03c767a897f819c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991382159,
+        "stop" : 1596991382161,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "2144748654996baa",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596998817996,
+        "stop" : 1596998817996,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "369217c0e70b862e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596987397095,
+        "stop" : 1596987397179,
+        "duration" : 84
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "25f5aa324931dcc1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596989525955,
+        "stop" : 1596989525955,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "4e9ce8cbb61218e0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991819876,
+        "stop" : 1596991819876,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Prime\"",
+      "uid" : "11963e30fd0e7a44",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999283572,
+        "stop" : 1596999284060,
+        "duration" : 488
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "6993f8062cbc98be",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999262842,
+        "stop" : 1596999279899,
+        "duration" : 17057
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "c374098abf119eaa",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991063624,
+        "stop" : 1596991063730,
+        "duration" : 106
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "f0b473cbb4d7b596",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596989696982,
+        "stop" : 1596989696984,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "d8506f55ac42d908",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596986603822,
+        "stop" : 1596986610012,
+        "duration" : 6190
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "b367f5b29b73470a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596987021352,
+        "stop" : 1596987024416,
+        "duration" : 3064
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "2eff833cc7606ad5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596989760440,
+        "stop" : 1596989760442,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "ce318efd58f05363",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596994593335,
+        "stop" : 1596994594454,
+        "duration" : 1119
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "9a0973b609640468",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596992482335,
+        "stop" : 1596992482952,
+        "duration" : 617
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "855972bb3cca8f9e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596993793486,
+        "stop" : 1596993794605,
+        "duration" : 1119
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "2395cda902f0f0d4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999752840,
+        "stop" : 1596999760247,
+        "duration" : 7407
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "8a98defc05d6a52f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1596998807543,
+        "stop" : 1596998817995,
+        "duration" : 10452
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "af74cfccabe4aa1e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596993985439,
+        "stop" : 1596993986043,
+        "duration" : 604
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "89e5e87b21ec9449",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597037330026,
+        "stop" : 1597037333535,
+        "duration" : 3509
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "364b6cd018feee56",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596997298398,
+        "stop" : 1596997298399,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "3f5a604374e5f46f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596989864934,
+        "stop" : 1596989869206,
+        "duration" : 4272
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "277e173ab1291ffe",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596994539811,
+        "stop" : 1596994539812,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "3381cfe0ecc20f31",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596998494467,
+        "stop" : 1596998501739,
+        "duration" : 7272
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "7122fc171bd061be",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596988292748,
+        "stop" : 1596988295770,
+        "duration" : 3022
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "358e733f9cb1e799",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991390176,
+        "stop" : 1596991390783,
+        "duration" : 607
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "996662de9c15535a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1596991121539,
+        "stop" : 1596991121575,
+        "duration" : 36
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "64bba594ff347a36",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596987397784,
+        "stop" : 1596987400811,
+        "duration" : 3027
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "91a7864f5c1c916e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596996975707,
+        "stop" : 1596996975708,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "8007e3d7da486f3e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596997790875,
+        "stop" : 1596997791359,
+        "duration" : 484
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "6f27a2b4fe56af16",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596991064373,
+        "stop" : 1596991064373,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "45ab0da3dcdb35f1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596990042876,
+        "stop" : 1596990042876,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "7a89be281530790a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596997806653,
+        "stop" : 1596997806654,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "3fba60d2ef0809b6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1596988061277,
+        "stop" : 1596988061326,
+        "duration" : 49
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "895185ba8e707bc",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596996733068,
+        "stop" : 1596996733069,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "bf8e3060999350bf",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596989760443,
+        "stop" : 1596989768531,
+        "duration" : 8088
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I pay with debit card by entering the test details",
+      "uid" : "2e0ca1a144d1b1a1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596980455092,
+        "stop" : 1596980455092,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "f31677c7a27de851",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596988057085,
+        "stop" : 1596988058191,
+        "duration" : 1106
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "cb71b09d10da6c7b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1596999285085,
+        "stop" : 1596999375096,
+        "duration" : 90011
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "3ea1edc3459282c5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991878791,
+        "stop" : 1596991878791,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "1a11bb7c7e8b4322",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999055714,
+        "stop" : 1596999066518,
+        "duration" : 10804
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "7f9ecf026d1d6d41",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596993547375,
+        "stop" : 1596993547375,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "4ffa4ba14d5ab371",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596992482266,
+        "stop" : 1596992482335,
+        "duration" : 69
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "bd8c01a28b3dd5c9",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999375098,
+        "stop" : 1596999375099,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "38194ca3380e265c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597037335119,
+        "stop" : 1597037342414,
+        "duration" : 7295
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "d1d0a7c7ff3cfaed",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596988167764,
+        "stop" : 1596988170808,
+        "duration" : 3044
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "39fb90693b53dc83",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596994498369,
+        "stop" : 1596994498370,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "5beffbc0d0b40015",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596988058191,
+        "stop" : 1596988061277,
+        "duration" : 3086
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "daaa912277d68b48",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596986497473,
+        "stop" : 1596986497474,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "32e10e4740892b22",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596997792426,
+        "stop" : 1596997796027,
+        "duration" : 3601
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "a141455761cac4fe",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596988052566,
+        "stop" : 1596988057010,
+        "duration" : 4444
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "2e471f42260d45ad",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596993986043,
+        "stop" : 1596993989111,
+        "duration" : 3068
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "e577acffcd68f032",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596993438046,
+        "stop" : 1596993438048,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "af50e108e5adae97",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991864837,
+        "stop" : 1596991870090,
+        "duration" : 5253
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "2d18764925745911",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596986497471,
+        "stop" : 1596986497472,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "91cdbe97b782e23b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991111584,
+        "stop" : 1596991111586,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "43b6bcf27a67305f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991390846,
+        "stop" : 1596991390847,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "51bde0489e8e18e1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596994058881,
+        "stop" : 1596994058882,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "7505f3cb0417218f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596993783637,
+        "stop" : 1596993783638,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "67ff446ffb53991",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1596986686915,
+        "stop" : 1596986699976,
+        "duration" : 13061
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "f1d58e47ee3c5970",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596992363145,
+        "stop" : 1596992363750,
+        "duration" : 605
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "c986ecb8a78bbe37",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991582430,
+        "stop" : 1596991582464,
+        "duration" : 34
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "958fda7ca76f677e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991720206,
+        "stop" : 1596991720207,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "45ed9846203ccd13",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596991121575,
+        "stop" : 1596991121575,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "e5cb1583c547268f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1596987798806,
+        "stop" : 1596987798848,
+        "duration" : 42
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "41be15bbe940691c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596988166656,
+        "stop" : 1596988167764,
+        "duration" : 1108
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "e87b9aafc4655b74",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1596990042809,
+        "stop" : 1596990042874,
+        "duration" : 65
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "bf08152b9072677e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596987792377,
+        "stop" : 1596987795086,
+        "duration" : 2709
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "bed257cd3c48f020",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1596996973551,
+        "stop" : 1596996975704,
+        "duration" : 2153
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "900d95a134435fa3",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596987593907,
+        "stop" : 1596987594524,
+        "duration" : 617
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "60a51b08a91b9173",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596994054552,
+        "stop" : 1596994054629,
+        "duration" : 77
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "b86e66845a1db081",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596986686299,
+        "stop" : 1596986686915,
+        "duration" : 616
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "37aff9aac399dc37",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596993590997,
+        "stop" : 1596993590998,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "1a328c3dd4f404fe",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991711105,
+        "stop" : 1596991711107,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "68d583f5f906e1ac",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596989903090,
+        "stop" : 1596989907700,
+        "duration" : 4610
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "8cbddd88721eefbb",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596989903088,
+        "stop" : 1596989903089,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "78c688444ece7ea0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596994141111,
+        "stop" : 1596994141187,
+        "duration" : 76
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "321e6e3fdbbf821d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596989907800,
+        "stop" : 1596989908906,
+        "duration" : 1106
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "8dd946274087ae01",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596998799294,
+        "stop" : 1596998799819,
+        "duration" : 525
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "200949b38ede3ea5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999464794,
+        "stop" : 1596999466022,
+        "duration" : 1228
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "ff35a09fc73dd856",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596988057010,
+        "stop" : 1596988057085,
+        "duration" : 75
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "3180797161744bdd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991064373,
+        "stop" : 1596991064374,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "4462437121577af1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596987400860,
+        "stop" : 1596987400860,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "319e54fb0180454e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596994593175,
+        "stop" : 1596994593335,
+        "duration" : 160
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "3cdf9270f6d21624",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596993454262,
+        "stop" : 1596993454263,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "48ba77391d0e3b95",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596986686225,
+        "stop" : 1596986686299,
+        "duration" : 74
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "216a7bcd3b630777",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999974010,
+        "stop" : 1596999974011,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "38f7900c8f8d1466",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596987020667,
+        "stop" : 1596987020735,
+        "duration" : 68
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "e1fc51bbe61beafa",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596988287166,
+        "stop" : 1596988292073,
+        "duration" : 4907
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "81d5e18304f999e3",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999633049,
+        "stop" : 1596999635002,
+        "duration" : 1953
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "e8d6ddacd6619c27",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1596999487888,
+        "stop" : 1596999973998,
+        "duration" : 486110
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "8069f58b68ef1ad6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596989908906,
+        "stop" : 1596989908922,
+        "duration" : 16
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "80e47e025542790f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999461406,
+        "stop" : 1596999461408,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "ffea208582b60717",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991506203,
+        "stop" : 1596991506818,
+        "duration" : 615
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "15993b3d3f4a5602",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596994515471,
+        "stop" : 1596994515569,
+        "duration" : 98
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "b9209bdbd289af80",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1596997796027,
+        "stop" : 1596997806653,
+        "duration" : 10626
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "bcc167ed1fc47a65",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991987643,
+        "stop" : 1596991987725,
+        "duration" : 82
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "af609355113e7ef5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991711108,
+        "stop" : 1596991719435,
+        "duration" : 8327
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "2ac9ef8f768c8681",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596989769784,
+        "stop" : 1596989769805,
+        "duration" : 21
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "7ac205f16785f136",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991506136,
+        "stop" : 1596991506202,
+        "duration" : 66
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "fa6b577ac7989484",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999635593,
+        "stop" : 1596999636532,
+        "duration" : 939
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "4c75a367c8cb3b3b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999254672,
+        "stop" : 1596999255696,
+        "duration" : 1024
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "8f0c138b373c31e3",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596989701717,
+        "stop" : 1596989701717,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "38497dbabe01117d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596988381855,
+        "stop" : 1596988384923,
+        "duration" : 3068
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "905562edabb523ec",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999621906,
+        "stop" : 1596999633031,
+        "duration" : 11125
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "210b472109380179",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991979345,
+        "stop" : 1596991987643,
+        "duration" : 8298
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "6b3f9b1ab25a9fdb",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999609609,
+        "stop" : 1596999609611,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "7b854f76a954b6f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999279914,
+        "stop" : 1596999279915,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "6468fc31ea421143",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1596991720162,
+        "stop" : 1596991720206,
+        "duration" : 44
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "c917b05b77933281",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596988295821,
+        "stop" : 1596988295822,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "e73482a9f23fe7c6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596992474526,
+        "stop" : 1596992474527,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "32985cbee17c22e8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596988381164,
+        "stop" : 1596988381240,
+        "duration" : 76
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "6ad64b37fabf0852",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596989869950,
+        "stop" : 1596989869966,
+        "duration" : 16
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "c2a8449fe72eb851",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991498204,
+        "stop" : 1596991506136,
+        "duration" : 7932
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "324fe66c070c4c73",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596993446929,
+        "stop" : 1596993447089,
+        "duration" : 160
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "5ce2bd76f762b67a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596988160733,
+        "stop" : 1596988160735,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "6feb289a3922376b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1596989869966,
+        "stop" : 1596989870035,
+        "duration" : 69
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I verify that the payment has failed",
+      "uid" : "57952fcba2fc913d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596980455092,
+        "stop" : 1596980455092,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "78cb8282c8a325e9",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596993807676,
+        "stop" : 1596993807678,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "3812c60fb17e23e8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596987597563,
+        "stop" : 1596987597563,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "d4b1a863b2fb0685",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596997787350,
+        "stop" : 1596997787351,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "ba6729488fcd07f4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596987996945,
+        "stop" : 1596987996946,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "92a4f93401c75fab",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999484411,
+        "stop" : 1596999484412,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "54e5c1311868136d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991382161,
+        "stop" : 1596991390078,
+        "duration" : 7917
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "8128eb03dd2a801f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596987982759,
+        "stop" : 1596987983875,
+        "duration" : 1116
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "684b76e856bf5075",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1596990010029,
+        "stop" : 1596990010059,
+        "duration" : 30
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "b71f143963ede934",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596994141187,
+        "stop" : 1596994141799,
+        "duration" : 612
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "54dc8da799df8049",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596992662011,
+        "stop" : 1596992665228,
+        "duration" : 3217
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "a38d58c2e9fca087",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999633048,
+        "stop" : 1596999633048,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "ffa560a54419897f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596987795770,
+        "stop" : 1596987798806,
+        "duration" : 3036
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "ec381fa9c5187772",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596989869320,
+        "stop" : 1596989869950,
+        "duration" : 630
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "ce379eaf10e51dae",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596996733065,
+        "stop" : 1596996733066,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "3449b5172bfd63c7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596992778699,
+        "stop" : 1596992778701,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "ab4fc7615ccb7ed9",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1596991064338,
+        "stop" : 1596991064373,
+        "duration" : 35
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "6e4485864edacffb",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999284060,
+        "stop" : 1596999285084,
+        "duration" : 1024
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "ac8730bdd849ab5c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596992474528,
+        "stop" : 1596992482266,
+        "duration" : 7738
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "8216def2a3edc19",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991987726,
+        "stop" : 1596991988339,
+        "duration" : 613
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "514af7d928a9dc8e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596993974200,
+        "stop" : 1596993985345,
+        "duration" : 11145
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "c243c0631e21f236",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596990005001,
+        "stop" : 1596990005002,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "7d478025c63a6409",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596986682623,
+        "stop" : 1596986682624,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "f877be73a4c1f81d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596988170853,
+        "stop" : 1596988170854,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "5a4b7902d8d697f0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991856883,
+        "stop" : 1596991856885,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "5422c3449141e2a3",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596989870035,
+        "stop" : 1596989870036,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "4f5cd660e12ac9bc",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596992307411,
+        "stop" : 1596992307487,
+        "duration" : 76
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "106c585cdfc4b078",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999043358,
+        "stop" : 1596999043360,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "7c7c88e64e453966",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596992486062,
+        "stop" : 1596992486062,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "7843a8b242676dd2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596992785985,
+        "stop" : 1596992786094,
+        "duration" : 109
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "be87afa633aa8a91",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596992661408,
+        "stop" : 1596992662011,
+        "duration" : 603
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "8155fbaac5223c4f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596993543087,
+        "stop" : 1596993543169,
+        "duration" : 82
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "e5b45f29e4f2d952",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991875743,
+        "stop" : 1596991878790,
+        "duration" : 3047
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "919afc7077fbf7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999613271,
+        "stop" : 1596999614312,
+        "duration" : 1041
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "68e63376e4ecb9c4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596987792375,
+        "stop" : 1596987792377,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "9ef14eb158be6ff8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1596986494504,
+        "stop" : 1596986497471,
+        "duration" : 2967
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "9e0ae0a79b38bb30",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596987898254,
+        "stop" : 1596987898256,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "6d351d6b939a428a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596993599862,
+        "stop" : 1596993612979,
+        "duration" : 13117
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "db93bdd9fe5a93b8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596993543169,
+        "stop" : 1596993544283,
+        "duration" : 1114
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "3245f76c33e5e54d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596992789805,
+        "stop" : 1596992789805,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "77306b7e576896e6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596993985345,
+        "stop" : 1596993985439,
+        "duration" : 94
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "c3df9eea6152864a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596997791360,
+        "stop" : 1596997792425,
+        "duration" : 1065
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "53967c38fe46e17c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596992298705,
+        "stop" : 1596992298707,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "5733cfd76c038d0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991581722,
+        "stop" : 1596991581809,
+        "duration" : 87
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "37e1fe4f876fc180",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999614313,
+        "stop" : 1596999621905,
+        "duration" : 7592
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "When I click on \"Prime\"",
+      "uid" : "872e3f3810740a99",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999486358,
+        "stop" : 1596999486909,
+        "duration" : 551
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "7289ba8c083ed891",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596994597528,
+        "stop" : 1596994611602,
+        "duration" : 14074
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "f06bf15489918a47",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991991427,
+        "stop" : 1596991991427,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "cbecf389858cbd23",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596990042057,
+        "stop" : 1596990042172,
+        "duration" : 115
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "44994e20a3ea3f06",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596987589940,
+        "stop" : 1596987589941,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "b664dc2b87f4e366",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596996733067,
+        "stop" : 1596996733067,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "1141ee4effd7e125",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991063730,
+        "stop" : 1596991064338,
+        "duration" : 608
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "6a30b9278bad3f1e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991581810,
+        "stop" : 1596991582430,
+        "duration" : 620
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "5e7302c101e42de2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596988166567,
+        "stop" : 1596988166656,
+        "duration" : 89
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "bcebdb2c5638db44",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596986610012,
+        "stop" : 1596986610103,
+        "duration" : 91
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "b6ae4a96883c3399",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596996975706,
+        "stop" : 1596996975706,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "e2ae63b4703b6ef5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999633032,
+        "stop" : 1596999633033,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "21c5563efc660ec4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596998489552,
+        "stop" : 1596998489553,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "65c59030d0145b23",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596987795159,
+        "stop" : 1596987795770,
+        "duration" : 611
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "928229ea04eeea11",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596990010060,
+        "stop" : 1596990010060,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "cbdb84d7eb17decb",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596993599167,
+        "stop" : 1596993599264,
+        "duration" : 97
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "6ebd47007c6ab872",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991120821,
+        "stop" : 1596991120916,
+        "duration" : 95
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "afa4803659d5b544",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999043360,
+        "stop" : 1596999046480,
+        "duration" : 3120
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "118825e09d0a4e95",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596987024467,
+        "stop" : 1596987024467,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "1cd06be9b6f5c51",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596992307488,
+        "stop" : 1596992308095,
+        "duration" : 607
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "e0349813455a1105",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999771373,
+        "stop" : 1596999771374,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "9c9c6642ac1118a8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596993535399,
+        "stop" : 1596993535400,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "dd20d5352cdb9292",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596988292073,
+        "stop" : 1596988292148,
+        "duration" : 75
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "d11b437cab070b80",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596992786694,
+        "stop" : 1596992789805,
+        "duration" : 3111
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "ea278e7c6799b0af",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597037334022,
+        "stop" : 1597037335119,
+        "duration" : 1097
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "adbb4091104e6928",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596989864932,
+        "stop" : 1596989864933,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "87c6b4098dc70e8d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991120916,
+        "stop" : 1596991121539,
+        "duration" : 623
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "a423d80f690efa86",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596987898256,
+        "stop" : 1596987903419,
+        "duration" : 5163
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "254660860fbb1835",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596987312283,
+        "stop" : 1596987312359,
+        "duration" : 76
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "aabfbe9e86f7961c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597037333535,
+        "stop" : 1597037334022,
+        "duration" : 487
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "f6df1dfed5d6e55c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596996975706,
+        "stop" : 1596996975707,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "bcfae441dcc5b386",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999748735,
+        "stop" : 1596999751166,
+        "duration" : 2431
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "251747fd642cd40",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596987907128,
+        "stop" : 1596987907128,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "ff7a9a9c7e012ea6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596993535401,
+        "stop" : 1596993543087,
+        "duration" : 7686
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "234e8231b300d62b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596999974002,
+        "stop" : 1596999974003,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "4aba8215e61ca939",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991719435,
+        "stop" : 1596991719532,
+        "duration" : 97
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "e265177a8f49495a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596989908963,
+        "stop" : 1596989908963,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "87542e06cc430726",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991498202,
+        "stop" : 1596991498203,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "747bae51d240671",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596987996946,
+        "stop" : 1596987996947,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "ab97d2ef8557f84f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597037356083,
+        "stop" : 1597037356084,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "9e5c2365a83841cc",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991979343,
+        "stop" : 1596991979344,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "5cfc9bec276b9624",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999466022,
+        "stop" : 1596999473322,
+        "duration" : 7300
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "12b3e9de1e7c5669",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999473323,
+        "stop" : 1596999484410,
+        "duration" : 11087
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "8b026cda449f910",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596990010059,
+        "stop" : 1596990010060,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "e606a17bcb1e6f99",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596992482952,
+        "stop" : 1596992486061,
+        "duration" : 3109
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I select the size and add to Bag",
+      "uid" : "b29b55baee2adff4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596980455090,
+        "stop" : 1596980455090,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "ab7f4bd242277673",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596992363750,
+        "stop" : 1596992366881,
+        "duration" : 3131
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "4d93f195c354b611",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596991799867,
+        "stop" : 1596991799868,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "142f5db3ada879af",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1596991582472,
+        "stop" : 1596991582522,
+        "duration" : 50
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "df35a96c890e98c6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1596996722309,
+        "stop" : 1596996733065,
+        "duration" : 10756
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "52da2139d9a2a0a9",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596987393164,
+        "stop" : 1596987393165,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "39b2bd7071b7afaf",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999461408,
+        "stop" : 1596999464246,
+        "duration" : 2838
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "b2d35f72f7addcf1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596987014012,
+        "stop" : 1596987014014,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "9c57a8da67c4b0d3",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596986699977,
+        "stop" : 1596986699978,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "48dc7da7a372d1c2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596994516700,
+        "stop" : 1596994529773,
+        "duration" : 13073
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "96f77851641fac33",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596994141800,
+        "stop" : 1596994154867,
+        "duration" : 13067
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "516fe00eea05ad99e936fa729b55eff4"
+  } ]
+}

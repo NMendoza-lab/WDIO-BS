@@ -1,0 +1,74 @@
+{
+  "uid" : "eb8e8cf46d8edff8",
+  "name" : "When I click on \"Prime\"",
+  "fullName" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation.When I click on \"Prime\"",
+  "historyId" : "3058f2f60350c9dba78ce4e94575bcc5",
+  "time" : {
+    "start" : 1596999635002,
+    "stop" : 1596999635593,
+    "duration" : 591
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "testClass",
+    "value" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I click on \"Prime\""
+  }, {
+    "name" : "package",
+    "value" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "chrome-9.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "872e3f3810740a99",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999486358,
+        "stop" : 1596999486909,
+        "duration" : 551
+      }
+    }, {
+      "uid" : "11963e30fd0e7a44",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999283572,
+        "stop" : 1596999284060,
+        "duration" : 488
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eb8e8cf46d8edff8.json",
+  "parameterValues" : [ "chrome-9.0" ]
+}

@@ -1,0 +1,58 @@
+{
+  "uid" : "cf089157c931393",
+  "name" : "Given I am on the Myntra home Page",
+  "fullName" : "Performing a functional test flow for Myntra: Scenario Outline name: Performing an E2E operation.Given I am on the Myntra home Page",
+  "historyId" : "8287a042e5eed6192d75e56e7a167752",
+  "time" : {
+    "start" : 1596980436491,
+    "stop" : 1596980441654,
+    "duration" : 5163
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Performing a functional test flow for Myntra: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "testClass",
+    "value" : "Performing a functional test flow for Myntra: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the Myntra home Page"
+  }, {
+    "name" : "package",
+    "value" : "Performing a functional test flow for Myntra: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cf089157c931393.json",
+  "parameterValues" : [ "chrome" ]
+}

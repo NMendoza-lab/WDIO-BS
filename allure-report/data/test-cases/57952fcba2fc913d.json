@@ -1,0 +1,58 @@
+{
+  "uid" : "57952fcba2fc913d",
+  "name" : "And I verify that the payment has failed",
+  "fullName" : "Performing a functional test flow for Myntra: Scenario Outline name: Performing an E2E operation.And I verify that the payment has failed",
+  "historyId" : "8de930c98f89f7ab880e3e6ec576d1ad",
+  "time" : {
+    "start" : 1596980455092,
+    "stop" : 1596980455092,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Performing a functional test flow for Myntra: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "testClass",
+    "value" : "Performing a functional test flow for Myntra: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I verify that the payment has failed"
+  }, {
+    "name" : "package",
+    "value" : "Performing a functional test flow for Myntra: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "57952fcba2fc913d.json",
+  "parameterValues" : [ "chrome" ]
+}

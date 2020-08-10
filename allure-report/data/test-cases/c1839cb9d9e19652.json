@@ -1,0 +1,58 @@
+{
+  "uid" : "c1839cb9d9e19652",
+  "name" : "Then I allow location access",
+  "fullName" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation.Then I allow location access",
+  "historyId" : "78c97df540c8191df4d68a7c5e2e8b46",
+  "time" : {
+    "start" : 1596987983875,
+    "stop" : 1596987996944,
+    "duration" : 13069
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "element (\".MuiButtonBase-root MuiButton-root MuiButton-contained edit__btn MuiButton-containedPrimary\") still not displayed after 10000ms",
+  "statusTrace" : "Error: element (\".MuiButtonBase-root MuiButton-root MuiButton-contained edit__btn MuiButton-containedPrimary\") still not displayed after 10000ms\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n                    at productDetails.waitformodaltoshowUp (/Users/fc19174/nathaniel/try_BS/leap-wdio/test/pageobjects/productDetails.js:18:21)\n                    at World.<anonymous> (/Users/fc19174/nathaniel/try_BS/leap-wdio/test/stepDefinitions/then.js:10:18)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "testClass",
+    "value" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I allow location access"
+  }, {
+    "name" : "package",
+    "value" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c1839cb9d9e19652.json",
+  "parameterValues" : [ "chrome" ]
+}

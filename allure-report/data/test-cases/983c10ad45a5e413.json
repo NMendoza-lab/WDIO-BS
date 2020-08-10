@@ -1,0 +1,64 @@
+{
+  "uid" : "983c10ad45a5e413",
+  "name" : "And I enetr my email \"nathaniel2794@gmail.com\" and password \"Testcasemyntra1@\" and click on the log in button",
+  "fullName" : "Performing a functional test flow for Myntra: Scenario Outline name: Performing an E2E operation.And I enetr my email \"nathaniel2794@gmail.com\" and password \"Testcasemyntra1@\" and click on the log in button",
+  "historyId" : "ef464117e2eafeeabd6e350f191ddacc",
+  "time" : {
+    "start" : 1596980445022,
+    "stop" : 1596980455087,
+    "duration" : 10065
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "element (\"//*[@name=\"email\"]\") still not displayed after 10000ms",
+  "statusTrace" : "Error: element (\"//*[@name=\"email\"]\") still not displayed after 10000ms\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n                    at LoginPage.waitForLoginPageToLoad (/Users/fc19174/nathaniel/try_BS/myntra-WDIO-master/test/pageobjects/loginpage.js:15:18)\n                    at World.<anonymous> (/Users/fc19174/nathaniel/try_BS/myntra-WDIO-master/test/stepDefinitions/when.js:17:15)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Performing a functional test flow for Myntra: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "testClass",
+    "value" : "Performing a functional test flow for Myntra: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I enetr my email \"nathaniel2794@gmail.com\" and password \"Testcasemyntra1@\" and click on the log in button"
+  }, {
+    "name" : "package",
+    "value" : "Performing a functional test flow for Myntra: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "983c10ad45a5e413.json",
+  "parameterValues" : [ "chrome" ]
+}

@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "element (\"//*[@name=\"email\"]\") still not displayed after 10000ms",
+      "children" : [ {
+        "name" : "And I enetr my email \"nathaniel2794@gmail.com\" and password \"Testcasemyntra1@\" and click on the log in button",
+        "uid" : "983c10ad45a5e413",
+        "parentUid" : "57094e2d418025e24fb364de8868fad0",
+        "status" : "broken",
+        "time" : {
+          "start" : 1596980445022,
+          "stop" : 1596980455087,
+          "duration" : 10065
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome" ]
+      } ],
+      "uid" : "57094e2d418025e24fb364de8868fad0"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

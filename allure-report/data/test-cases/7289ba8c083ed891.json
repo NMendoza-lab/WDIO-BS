@@ -1,0 +1,315 @@
+{
+  "uid" : "7289ba8c083ed891",
+  "name" : "And I wait for step 1 page to load",
+  "fullName" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation.And I wait for step 1 page to load",
+  "historyId" : "d7d1d7b8b89cb72e792f3238f1416785",
+  "time" : {
+    "start" : 1596994597528,
+    "stop" : 1596994611602,
+    "duration" : 14074
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "testClass",
+    "value" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I wait for step 1 page to load"
+  }, {
+    "name" : "package",
+    "value" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ffcd0846d95cdc17",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596994529773,
+        "stop" : 1596994539810,
+        "duration" : 10037
+      }
+    }, {
+      "uid" : "5ed6309e31fe05ed",
+      "status" : "broken",
+      "statusDetails" : "invalid selector: An invalid or illegal selector was specified\n                  (Session info: chrome=84.0.4147.105)",
+      "time" : {
+        "start" : 1596994154868,
+        "stop" : 1596994154929,
+        "duration" : 61
+      }
+    }, {
+      "uid" : "a8d2e5d1dbcbd31d",
+      "status" : "broken",
+      "statusDetails" : "invalid selector: An invalid or illegal selector was specified\n                  (Session info: chrome=84.0.4147.105)",
+      "time" : {
+        "start" : 1596994058814,
+        "stop" : 1596994058881,
+        "duration" : 67
+      }
+    }, {
+      "uid" : "6468fc31ea421143",
+      "status" : "broken",
+      "statusDetails" : "invalid selector: An invalid or illegal selector was specified\n                  (Session info: chrome=84.0.4147.105)",
+      "time" : {
+        "start" : 1596991720162,
+        "stop" : 1596991720206,
+        "duration" : 44
+      }
+    }, {
+      "uid" : "142f5db3ada879af",
+      "status" : "broken",
+      "statusDetails" : "invalid selector: An invalid or illegal selector was specified\n                  (Session info: chrome=84.0.4147.105)",
+      "time" : {
+        "start" : 1596991582472,
+        "stop" : 1596991582522,
+        "duration" : 50
+      }
+    }, {
+      "uid" : "22f4f84fa0b3ad7d",
+      "status" : "broken",
+      "statusDetails" : "invalid selector: An invalid or illegal selector was specified\n                  (Session info: chrome=84.0.4147.105)",
+      "time" : {
+        "start" : 1596991506851,
+        "stop" : 1596991506906,
+        "duration" : 55
+      }
+    }, {
+      "uid" : "56a046ad0495376c",
+      "status" : "broken",
+      "statusDetails" : "invalid selector: An invalid or illegal selector was specified\n                  (Session info: chrome=84.0.4147.105)",
+      "time" : {
+        "start" : 1596991390802,
+        "stop" : 1596991390846,
+        "duration" : 44
+      }
+    }, {
+      "uid" : "45ed9846203ccd13",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596991121575,
+        "stop" : 1596991121575,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "6f27a2b4fe56af16",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596991064373,
+        "stop" : 1596991064373,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "6870f12422466d9f",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596990042874,
+        "stop" : 1596990042875,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "8b026cda449f910",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596990010059,
+        "stop" : 1596990010060,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "fa3fbd06a2005347",
+      "status" : "broken",
+      "statusDetails" : "invalid selector: An invalid or illegal selector was specified\n                  (Session info: headless chrome=84.0.4147.105)",
+      "time" : {
+        "start" : 1596989908922,
+        "stop" : 1596989908962,
+        "duration" : 40
+      }
+    }, {
+      "uid" : "6feb289a3922376b",
+      "status" : "broken",
+      "statusDetails" : "invalid selector: An invalid or illegal selector was specified\n                  (Session info: headless chrome=84.0.4147.105)",
+      "time" : {
+        "start" : 1596989869966,
+        "stop" : 1596989870035,
+        "duration" : 69
+      }
+    }, {
+      "uid" : "2e19f4618c5444e7",
+      "status" : "broken",
+      "statusDetails" : "invalid selector: An invalid or illegal selector was specified\n                  (Session info: headless chrome=84.0.4147.105)",
+      "time" : {
+        "start" : 1596989769806,
+        "stop" : 1596989769863,
+        "duration" : 57
+      }
+    }, {
+      "uid" : "8f0c138b373c31e3",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596989701717,
+        "stop" : 1596989701717,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "25f5aa324931dcc1",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596989525955,
+        "stop" : 1596989525955,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "8aba58f487aad176",
+      "status" : "broken",
+      "statusDetails" : "invalid selector: An invalid or illegal selector was specified\n                  (Session info: chrome=84.0.4147.105)",
+      "time" : {
+        "start" : 1596988384923,
+        "stop" : 1596988384963,
+        "duration" : 40
+      }
+    }, {
+      "uid" : "a0bb2de7cf8a4f8",
+      "status" : "broken",
+      "statusDetails" : "invalid selector: An invalid or illegal selector was specified\n                  (Session info: chrome=84.0.4147.105)",
+      "time" : {
+        "start" : 1596988295770,
+        "stop" : 1596988295820,
+        "duration" : 50
+      }
+    }, {
+      "uid" : "a475060f097d3417",
+      "status" : "broken",
+      "statusDetails" : "invalid selector: An invalid or illegal selector was specified\n                  (Session info: chrome=84.0.4147.105)",
+      "time" : {
+        "start" : 1596988170809,
+        "stop" : 1596988170853,
+        "duration" : 44
+      }
+    }, {
+      "uid" : "3fba60d2ef0809b6",
+      "status" : "broken",
+      "statusDetails" : "invalid selector: An invalid or illegal selector was specified\n                  (Session info: chrome=84.0.4147.105)",
+      "time" : {
+        "start" : 1596988061277,
+        "stop" : 1596988061326,
+        "duration" : 49
+      }
+    }, {
+      "uid" : "ba6729488fcd07f4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596987996945,
+        "stop" : 1596987996946,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "251747fd642cd40",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596987907128,
+        "stop" : 1596987907128,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e5cb1583c547268f",
+      "status" : "broken",
+      "statusDetails" : "invalid selector: An invalid or illegal selector was specified\n                  (Session info: chrome=84.0.4147.105)",
+      "time" : {
+        "start" : 1596987798806,
+        "stop" : 1596987798848,
+        "duration" : 42
+      }
+    }, {
+      "uid" : "3812c60fb17e23e8",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596987597563,
+        "stop" : 1596987597563,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e9d350a0d57140a0",
+      "status" : "broken",
+      "statusDetails" : "invalid selector: An invalid or illegal selector was specified\n                  (Session info: chrome=84.0.4147.105)",
+      "time" : {
+        "start" : 1596987400811,
+        "stop" : 1596987400859,
+        "duration" : 48
+      }
+    }, {
+      "uid" : "6d5b6a55675650e6",
+      "status" : "broken",
+      "statusDetails" : "invalid selector: An invalid or illegal selector was specified\n                  (Session info: chrome=84.0.4147.105)",
+      "time" : {
+        "start" : 1596987315994,
+        "stop" : 1596987316043,
+        "duration" : 49
+      }
+    }, {
+      "uid" : "4dd266720814c8f0",
+      "status" : "broken",
+      "statusDetails" : "invalid selector: An invalid or illegal selector was specified\n                  (Session info: chrome=84.0.4147.105)",
+      "time" : {
+        "start" : 1596987024417,
+        "stop" : 1596987024466,
+        "duration" : 49
+      }
+    }, {
+      "uid" : "9c57a8da67c4b0d3",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596986699977,
+        "stop" : 1596986699978,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "698d22f021941c6b",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596986610699,
+        "stop" : 1596986610699,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "daaa912277d68b48",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596986497473,
+        "stop" : 1596986497474,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7289ba8c083ed891.json",
+  "parameterValues" : [ "chrome" ]
+}

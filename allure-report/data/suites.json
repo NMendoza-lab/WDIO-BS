@@ -1,0 +1,364 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Performing a functional test flow for Myntra: Scenario Outline name: Performing an E2E operation",
+    "children" : [ {
+      "name" : "Given I am on the Myntra home Page",
+      "uid" : "cf089157c931393",
+      "parentUid" : "3779bedd106baa65b8566e4afc8a4fd3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596980436491,
+        "stop" : 1596980441654,
+        "duration" : 5163
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on Profile on the home page to log in",
+      "uid" : "ffff934384184392",
+      "parentUid" : "3779bedd106baa65b8566e4afc8a4fd3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596980441654,
+        "stop" : 1596980445022,
+        "duration" : 3368
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I enetr my email \"nathaniel2794@gmail.com\" and password \"Testcasemyntra1@\" and click on the log in button",
+      "uid" : "983c10ad45a5e413",
+      "parentUid" : "3779bedd106baa65b8566e4afc8a4fd3",
+      "status" : "broken",
+      "time" : {
+        "start" : 1596980445022,
+        "stop" : 1596980455087,
+        "duration" : 10065
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I search for \"Shirts For Men\"",
+      "uid" : "2f76c3e269861d8b",
+      "parentUid" : "3779bedd106baa65b8566e4afc8a4fd3",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596980455087,
+        "stop" : 1596980455088,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I filter by brand \"Van Heusen\"",
+      "uid" : "109f480a91f3645f",
+      "parentUid" : "3779bedd106baa65b8566e4afc8a4fd3",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596980455089,
+        "stop" : 1596980455089,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I select the first Item",
+      "uid" : "e4a73055bedf9eb5",
+      "parentUid" : "3779bedd106baa65b8566e4afc8a4fd3",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596980455089,
+        "stop" : 1596980455089,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on Bag",
+      "uid" : "2bae74f62f09cdcd",
+      "parentUid" : "3779bedd106baa65b8566e4afc8a4fd3",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596980455090,
+        "stop" : 1596980455090,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I select the size and add to Bag",
+      "uid" : "b29b55baee2adff4",
+      "parentUid" : "3779bedd106baa65b8566e4afc8a4fd3",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596980455090,
+        "stop" : 1596980455090,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I verify the cost",
+      "uid" : "43e6549e0df21b7a",
+      "parentUid" : "3779bedd106baa65b8566e4afc8a4fd3",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596980455090,
+        "stop" : 1596980455091,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And click on place order",
+      "uid" : "fa6255fde8aca108",
+      "parentUid" : "3779bedd106baa65b8566e4afc8a4fd3",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596980455091,
+        "stop" : 1596980455091,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I verfiy the default address and click on continue",
+      "uid" : "f4f2d5f413880d99",
+      "parentUid" : "3779bedd106baa65b8566e4afc8a4fd3",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596980455091,
+        "stop" : 1596980455091,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I pay with debit card by entering the test details",
+      "uid" : "2e0ca1a144d1b1a1",
+      "parentUid" : "3779bedd106baa65b8566e4afc8a4fd3",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596980455092,
+        "stop" : 1596980455092,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I verify that the payment has failed",
+      "uid" : "57952fcba2fc913d",
+      "parentUid" : "3779bedd106baa65b8566e4afc8a4fd3",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1596980455092,
+        "stop" : 1596980455092,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "f077200ab77d2922",
+      "parentUid" : "3779bedd106baa65b8566e4afc8a4fd3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596980455093,
+        "stop" : 1596980455093,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "3779bedd106baa65b8566e4afc8a4fd3"
+  }, {
+    "name" : "Performing a functional test flow for leap production: Scenario Outline name: Performing an E2E operation",
+    "children" : [ {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "7cc6878f511b2cc2",
+      "parentUid" : "c8d819196b86a018806df9b48e3fc344",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596994583552,
+        "stop" : 1596994593175,
+        "duration" : 9623
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "319e54fb0180454e",
+      "parentUid" : "c8d819196b86a018806df9b48e3fc344",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596994593175,
+        "stop" : 1596994593335,
+        "duration" : 160
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "ce318efd58f05363",
+      "parentUid" : "c8d819196b86a018806df9b48e3fc344",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596994593335,
+        "stop" : 1596994594454,
+        "duration" : 1119
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "8eec2133a75927eb",
+      "parentUid" : "c8d819196b86a018806df9b48e3fc344",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596994594454,
+        "stop" : 1596994597527,
+        "duration" : 3073
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "7289ba8c083ed891",
+      "parentUid" : "c8d819196b86a018806df9b48e3fc344",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596994597528,
+        "stop" : 1596994611602,
+        "duration" : 14074
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "9821aa24c9d6be0b",
+      "parentUid" : "c8d819196b86a018806df9b48e3fc344",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596994611603,
+        "stop" : 1596994611604,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I click on \"Prime\"",
+      "uid" : "eb8e8cf46d8edff8",
+      "parentUid" : "c8d819196b86a018806df9b48e3fc344",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596999635002,
+        "stop" : 1596999635593,
+        "duration" : 591
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Given I am on the Leap landing Page",
+      "uid" : "89e5e87b21ec9449",
+      "parentUid" : "c8d819196b86a018806df9b48e3fc344",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597037330026,
+        "stop" : 1597037333535,
+        "duration" : 3509
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "When I click on \"Easy Access\"",
+      "uid" : "aabfbe9e86f7961c",
+      "parentUid" : "c8d819196b86a018806df9b48e3fc344",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597037333535,
+        "stop" : 1597037334022,
+        "duration" : 487
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "And I click on apply now on the product details page",
+      "uid" : "ea278e7c6799b0af",
+      "parentUid" : "c8d819196b86a018806df9b48e3fc344",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597037334022,
+        "stop" : 1597037335119,
+        "duration" : 1097
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Then I allow location access",
+      "uid" : "38194ca3380e265c",
+      "parentUid" : "c8d819196b86a018806df9b48e3fc344",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597037335119,
+        "stop" : 1597037342414,
+        "duration" : 7295
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "And I wait for step 1 page to load",
+      "uid" : "4bcd1f55ac3e7852",
+      "parentUid" : "c8d819196b86a018806df9b48e3fc344",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597037342415,
+        "stop" : 1597037356083,
+        "duration" : 13668
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "ab97d2ef8557f84f",
+      "parentUid" : "c8d819196b86a018806df9b48e3fc344",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597037356083,
+        "stop" : 1597037356084,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-9.0" ]
+    } ],
+    "uid" : "c8d819196b86a018806df9b48e3fc344"
+  } ]
+}
